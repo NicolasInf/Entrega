@@ -20,4 +20,4 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 []2
 []3
 
-<img width="60" height="50" alt="image" src="https://github.com/user-attachments/assets/9bb8d11d-5920-4714-b056-a132c1518999" />
+<img width="800" height="100" alt="image" src="https://github.com/user-attachments/assets/9bb8d11d-5920-4714-b056-a132c1518999" />
